@@ -10,7 +10,7 @@
 
 
 
-<p align="left">🎯 Atualmente focado(a) em:<br>- Aprender Java e o ecossistema Spring<br>- Estudar APIs REST e arquitetura de software<br>- Explorar bancos de dados como MySQL e PostgreSQL<br><br>💡 Interesse em: Design de APIs REST e Cloud Computing<br><br>🤝 Aberto a colaborações em projetos interessantes</p>
+<p align="left">🎯 Atualmente focado(a) em:<br>- Aprender Java e o ecossistema Spring<br>- Estudar APIs REST e arquitetura de software<br>- Explorar bancos de dados como MySQL e PostgreSQL<br><br>💡 Interesse em: Design de APIs REST e Cloud Computing<br><br>🤝 Aberto a colaborações</p>
 
 
 
