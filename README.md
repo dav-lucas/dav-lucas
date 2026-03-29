@@ -4,7 +4,7 @@ Me chamo Lucas, estudante de Engenharia de Software na FIAP.
 
 ## 📚 Sobre mim
 
-Desenvolvedor back-end com foco em Java e Spring Boot, com experiência em APIs REST e testes automatizados com JUnit e Mockito, aplicando boas práticas como Clean Code e arquitetura em camadas.
+Desenvolvedor back-end com foco em Java e Spring Boot, com experiência em APIs REST e testes automatizados com JUnit e Mockito, aplicando boas práticas de Clean Code e arquitetura em camadas.
 
 ## 🔧 Tecnologias e Ferramentas
 
