@@ -4,14 +4,15 @@ Me chamo Lucas, estudante de Engenharia de Software na FIAP.
 
 ## 📚 Sobre mim
 
-Desenvolvedor back-end com foco em Java e Spring Boot, com experiência em APIs REST e testes automatizados com JUnit e Mockito, aplicando boas práticas de Clean Code e arquitetura em camadas.
+Desenvolvedor back-end com foco em Java e Spring Boot, com experiência em desenvolvimento de APIs REST, aplicando boas práticas de Clean Code e arquitetura em camadas.
 
 ## 🔧 Tecnologias e Ferramentas
 
 - **Linguagens**: Java, Python  
-- **Frameworks e Bibliotecas**: Spring Boot, JUnit, Mockito  
-- **Ferramentas de Desenvolvimento**: IntelliJ IDEA, Git, Docker  
-- **Outros conhecimentos**: Testes de software, APIs REST  
+- **Frameworks e Bibliotecas**: Spring Boot, Spring Data JPA.
+- **Bancos de Dados**: H2 Database, MySQL.  
+- **Ferramentas**: Git, GitHub, Swagger, Postman.
+- **Outros conhecimentos**: Programação Orientada a Objetos (POO), Arquitetura em Camadas (Controller, Service, Repository), APIs RESTful, CRUD, Injeção de Dependências.
 
 ---
 
