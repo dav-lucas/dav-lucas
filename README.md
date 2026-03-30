@@ -18,4 +18,4 @@ Desenvolvedor back-end com foco em Java e Spring Boot, com experiência em APIs 
 ## 📫 Contato
 
 * **E-mail**: [contact.lucasmd@gmail.com](mailto:contact.lucasmd@gmail.com)
-* **LinkedIn**: https://www.linkedin.com/in/lucas-davanco
+* **LinkedIn**: www.linkedin.com/in/lucas-davanco
