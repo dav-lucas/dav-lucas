@@ -10,7 +10,7 @@ Desenvolvedor back-end com foco em Java e Spring Boot, com experiência em desen
 
 - **Linguagens**: Java, Python  
 - **Frameworks e Bibliotecas**: Spring Boot, Spring Data JPA.
-- **Bancos de Dados**: H2 Database, MySQL.  
+- **Bancos de Dados**: H2 Database, MySQL, PostgreSQL.  
 - **Ferramentas**: Git, GitHub, IntelliJ IDEA, Swagger, Postman.
 - **Outros conhecimentos**: Programação Orientada a Objetos (POO), Arquitetura em Camadas (Controller, Service, Repository), APIs RESTful, CRUD, Injeção de Dependências.
 
