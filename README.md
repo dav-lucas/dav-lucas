@@ -4,9 +4,6 @@
 
 Aos 20 anos, meu foco está na intersecção entre tecnologia e negócios. Sou estudante de Engenharia de Software na FIAP, direcionando minha carreira para a análise de dados como motor de performance. 
 
-Acredito que dados sem contexto são apenas números; por isso, busco transformar grandes volumes de informação em insights acionáveis que impulsionam o crescimento e a eficiência operacional. No tempo livre, mantenho a disciplina com treinos e sigo em constante evolução pessoal e técnica.
-
-
 ---
 
 ### 🧠 Stack & Ferramentas (Data & Backend)
