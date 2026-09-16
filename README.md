@@ -48,8 +48,6 @@ Acredito que dados sem contexto são apenas números; por isso, busco transforma
 <br/>
 
 
----
-
 ## 📫 Contato
 
 * **E-mail**: [contact.lucasmd@gmail.com](mailto:contact.lucasmd@gmail.com)
