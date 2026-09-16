@@ -1,6 +1,6 @@
 # Lucas Davanço
 
-**`Software Engineering Student @ FIAP | Data Analytics | Revenue & Growth`**
+**`Software Engineering Student @ FIAP | Data Analytics`**
 
 Aos 20 anos, meu foco está na intersecção entre tecnologia e negócios. Sou estudante de Engenharia de Software na FIAP, direcionando minha carreira para a análise de dados como motor de performance. 
 
