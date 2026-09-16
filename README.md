@@ -1,18 +1,52 @@
-# Olá! 👋
+# Lucas Davanço
 
-Me chamo Lucas, estudante de Engenharia de Software na FIAP.
+**`Software Engineering Student @ FIAP | Data Analytics | Revenue & Growth`**
 
-## 📚 Sobre mim
+Aos 20 anos, meu foco está na intersecção entre tecnologia e negócios. Sou estudante de Engenharia de Software na FIAP, direcionando minha carreira para a análise de dados como motor de performance. 
 
-Desenvolvedor back-end com foco em Java e Spring Boot, com experiência em desenvolvimento de APIs REST, aplicando boas práticas de Clean Code e arquitetura em camadas.
+Acredito que dados sem contexto são apenas números; por isso, busco transformar grandes volumes de informação em insights acionáveis que impulsionam o crescimento e a eficiência operacional. No tempo livre, mantenho a disciplina com treinos e sigo em constante evolução pessoal e técnica.
 
-## 🔧 Tecnologias e Ferramentas
 
-- **Linguagens**: Java, Python  
-- **Frameworks e Bibliotecas**: Spring Boot, Spring Data JPA.
-- **Bancos de Dados**: H2 Database, MySQL.  
-- **Ferramentas**: Git, GitHub, IntelliJ IDEA, Swagger, Postman.
-- **Outros conhecimentos**: Programação Orientada a Objetos (POO), Arquitetura em Camadas (Controller, Service, Repository), APIs RESTful, CRUD, Injeção de Dependências.
+---
+
+### 🧠 Stack & Ferramentas (Data & Backend)
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="35px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="35px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="35px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="35px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+/>
+
+<br/>
+<br/>
+
 
 ---
 
